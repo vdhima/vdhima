@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![Tirana](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/tirana)
+[![Tirana Weather](https://playing-with-fastapi.vercel.app/weather/tirana)](https://playing-with-fastapi.vercel.app/weather/tirana)
 
 ### 📍 From Albania · 🧑‍💻 System Administrator · 🚀 DevOps Enthusiast
 
