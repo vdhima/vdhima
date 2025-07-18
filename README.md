@@ -37,4 +37,4 @@ I’m a System Administrator with a passion for automation, pipelines, and clean
 ### 🔗 Connect with Me
 
 - 📧 Email: vdhimas@gmail.com   
-- 💼 LinkedIn: *[(add LinkedIn if available)](https://www.linkedin.com/in/vdhimas/)*
+- 💼 LinkedIn: *[(Linkedin)](https://www.linkedin.com/in/vdhimas/)*
