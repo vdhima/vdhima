@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![Tirana Weather](https://playing-with-fastapi.vercel.app/weather/tirana)](https://playing-with-fastapi.vercel.app/weather/tirana)
+[![Live Tirana Weather](https://img.shields.io/badge/Live_Weather-Click_here-blue)](https://playing-with-fastapi.vercel.app/weather/tirana)
 
 ### 📍 From Albania · 🧑‍💻 System Administrator · 🚀 DevOps Enthusiast
 
